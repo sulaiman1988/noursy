@@ -1,0 +1,2 @@
+# noursy
+learning 
